@@ -1,0 +1,16 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "0.8.2",
+    "@nuxtjs/i18n": "^8.0.0-rc.3",
+    "nuxt": "3.7.0"
+  }
+}
